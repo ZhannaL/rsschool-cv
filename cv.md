@@ -1,4 +1,5 @@
-## Zhanna Sbitneva
+## Zhanna Sbitneva  
+![photo](./IMG_201.jpg)  
 GitHub: [ZhannaL](https://github.com/ZhannaL)  
 LinkedIn: [Zhanna Sbitneva](https://www.linkedin.com/in/zhanna-sbitneva-9a05a0b0/ ) 
 #### Objective
@@ -26,3 +27,10 @@ Accounting, analysis, and audit
 **Belgorod state technological university (BSTU)** – *Bachelor’s degree*  
 2017 – present  
 Information technologies  
+
+#### Languages
+**English** - Limited working proficiency
+
+**Polish** - Elementary proficiency
+
+**Russian** - Native or bilingual proficiency
