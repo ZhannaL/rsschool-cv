@@ -27,11 +27,11 @@ JavaScript Tutorial course
 
 #### Additional Experience / Own projects
 
-Weather app (React, Gatsby, Redux) - ​*https://weather-app-gatsby.netlify.app/*  
-React-based app chat (React, Redux, Websocket) - _https://zhannal.github.io/simple-chat-react-rss/_  
-React-based app. SongBird Quiz (React, Redux) -​ ​*https://zhannal.github.io/song-bird-quiz/*  
-Restaurant landing page (HTML, CSS) - ​*https://zhannal.github.io/restaurant-landing-page/*  
-WebGL game UI with React/SASS/CSS modules - _https://github.com/SphericalWorld/spherical-world_
+Weather app (React, Gatsby, Redux) - [​https://weather-app-gatsby.netlify.app/](​https://weather-app-gatsby.netlify.app/)  
+React-based app chat (React, Redux, Websocket) - [https://zhannal.github.io/simple-chat-react-rss/](https://zhannal.github.io/simple-chat-react-rss/)  
+React-based app. SongBird Quiz (React, Redux) -​ [https://zhannal.github.io/song-bird-quiz/](https://zhannal.github.io/song-bird-quiz/)  
+Restaurant landing page (HTML, CSS) - ​[https://zhannal.github.io/restaurant-landing-page/](https://zhannal.github.io/restaurant-landing-page/)  
+WebGL game UI with React/SASS/CSS modules - [https://github.com/SphericalWorld/spherical-world](https://github.com/SphericalWorld/spherical-world)
 
 #### Education
 
